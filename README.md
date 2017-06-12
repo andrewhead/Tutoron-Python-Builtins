@@ -7,13 +7,15 @@ coerce, and intern).
 
 This module is not standalone: It needs to be mounted within
 a Tutorons server to use it and even to run the tests.
-Follow the instructions at andrewhead/tutorons-base.
+Follow the instructions at
+[andrewhead/tutorons-base](https://github.com/andrewhead/tutorons-base).
 
 ## Credits
 
-This package was mostly the result of work by mwaliman.
+This package was mostly the result of work by
+[mwaliman](https://github.com/mwaliman).
 
 ## For more information
 
 Explore the full development history of this module at
-andrewhead/tutorons-server.
+[andrewhead/tutorons-server](https://github.com/andrewhead/tutorons-server).
